@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /c/Users/Home_pc/AndroidStudioProjects/apexpay/app/src/main/res/menu)",
+      "Bash(mkdir -p /c/Users/Home_pc/AndroidStudioProjects/apexpay/app/src/main/java/com/apexpay/fragments)"
+    ]
+  }
+}
